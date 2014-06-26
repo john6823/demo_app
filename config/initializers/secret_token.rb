@@ -1,1 +1,1 @@
-DemoApp::Application.config.secret_token = ENV['SECRET_TOKEN']
+DemoApp::Application.config.secret_key_base='fa59cb986c593e37f8de6d52e4696dd8c05ff8a16401c646274a30189957630ca61740c3081a313a8b7437c9b10b518acb5c421085aa52332bc49714d91e0939'
